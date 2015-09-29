@@ -1,0 +1,28 @@
+.ui-jqgrid .ui-jqgrid-toppager .ui-pager-control, .ui-jqgrid .ui-jqgrid-pager .ui-pager-control {
+  height: auto;
+}
+.ui-jqgrid .ui-pager-control td[id$="_toppager_center"], .ui-jqgrid .ui-pager-control td[id$="pager_center"] {
+  width: auto !important;
+  white-space: normal !important;
+    height: auto;
+}
+.ui-jqgrid .ui-pager-control td[id$="_toppager_left"], .ui-jqgrid .ui-pager-control td[id$="pager_left"] {
+  width: auto !important;
+  white-space: normal !important;
+    height: auto;
+
+}
+.ui-jqgrid .ui-pager-control td[id$="_toppager_right"], .ui-jqgrid .ui-pager-control td[id$="pager_right"] {
+  width: auto !important;
+  white-space: normal !important;
+    height: auto;
+}
+.ui-jqgrid .ui-jqgrid-bdiv, .ui-jqgrid .ui-jqgrid-view.table-responsive, .ui-jqgrid, .ui-jqgrid-pager,
+.ui-jqgrid-toppager, .ui-jqgrid-hdiv {
+    width: auto !important;
+}
+.ui-jqgrid .ui-pager-control td[id$="_toppager_left"], .ui-jqgrid .ui-pager-control td[id$="pager_left"],
+.ui-jqgrid .ui-pager-control td[id$="_toppager_center"], .ui-jqgrid .ui-pager-control td[id$="pager_center"] {
+    overflow-x: auto;
+    overflow-y: hidden;
+}
