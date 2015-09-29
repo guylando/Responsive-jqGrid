@@ -1,5 +1,5 @@
 # Responsive-jqGrid
-A little css that helps to turn your jqgrid to be more responsive.
+A little css that helps turn your jqGrid into a responsive grid.
 
 The problem with layouts using tables tags is that the columns in the same row can't wrap to another row.
 Thus its much better to use &lt;div&gt;s as table layout instead of &lt;table&gt; as shown here:
